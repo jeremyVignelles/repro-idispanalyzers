@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproIDisposableAnalyzers", "ReproIDisposableAnalyzers\ReproIDisposableAnalyzers.csproj", "{6BE30A1F-9341-43AE-A132-9CC2EFA3C35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE30A1F-9341-43AE-A132-9CC2EFA3C35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE30A1F-9341-43AE-A132-9CC2EFA3C35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE30A1F-9341-43AE-A132-9CC2EFA3C35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE30A1F-9341-43AE-A132-9CC2EFA3C35D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D7997C3-2724-4F69-9DEA-5FBC1C3A1443}
+	EndGlobalSection
+EndGlobal
