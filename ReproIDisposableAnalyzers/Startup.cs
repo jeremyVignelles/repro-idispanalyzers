@@ -32,6 +32,7 @@ namespace ReproIDisposableAnalyzers
             {
                 endpoints.MapGet("/", async context =>
                 {
+                    var temp = context.RequestServices.GetRequiredService<IDisposable>();
                     await context.Response.WriteAsync("Hello World!");
                 });
             });
